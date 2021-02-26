@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>vkry的杂物堆</title>
+  
+  <subtitle>记录点滴进步</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://blogger.vkry.xyz/"/>
+  <updated>2021-02-25T01:27:49.158Z</updated>
+  <id>https://blogger.vkry.xyz/</id>
+  
+  <author>
+    <name>vkry</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>centOS7安装selenium</title>
+    <link href="https://blogger.vkry.xyz/2021/02/25/centOS7%E5%AE%89%E8%A3%85selenium/"/>
+    <id>https://blogger.vkry.xyz/2021/02/25/centOS7安装selenium/</id>
+    <published>2021-02-25T01:22:52.000Z</published>
+    <updated>2021-02-25T01:27:49.158Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;centOS7安装selenium&lt;/p&gt;
+&lt;p&gt;一、安装Chrome&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;sh&quot;&gt;yum install
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blogger.vkry.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Spring源码环境搭建</title>
+    <link href="https://blogger.vkry.xyz/2021/02/25/Spring%E6%BA%90%E7%A0%81%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
+    <id>https://blogger.vkry.xyz/2021/02/25/Spring源码环境搭建/</id>
+    <published>2021-02-25T01:22:52.000Z</published>
+    <updated>2021-02-25T01:27:04.111Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Spring源码环境搭建&quot;&gt;&lt;a href=&quot;#Spring源码环境搭建&quot; class=&quot;headerlink&quot; title=&quot;Spring源码环境搭建&quot;&gt;&lt;/a&gt;Spring源码环境搭建&lt;/h1&gt;&lt;h2 id=&quot;一、下载源码&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blogger.vkry.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>aop学习</title>
+    <link href="https://blogger.vkry.xyz/2021/02/25/aop%E5%AD%A6%E4%B9%A0/"/>
+    <id>https://blogger.vkry.xyz/2021/02/25/aop学习/</id>
+    <published>2021-02-25T01:22:52.000Z</published>
+    <updated>2021-02-25T01:30:18.197Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;aop学习&quot;&gt;&lt;a href=&quot;#aop学习&quot; class=&quot;headerlink&quot; title=&quot;aop学习&quot;&gt;&lt;/a&gt;aop学习&lt;/h1&gt;&lt;h3 id=&quot;1、动态代理&quot;&gt;&lt;a href=&quot;#1、动态代理&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blogger.vkry.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>V2Ray避坑填坑指南</title>
+    <link href="https://blogger.vkry.xyz/2021/02/25/V2Ray%E9%81%BF%E5%9D%91%E5%A1%AB%E5%9D%91%E6%8C%87%E5%8D%97/"/>
+    <id>https://blogger.vkry.xyz/2021/02/25/V2Ray避坑填坑指南/</id>
+    <published>2021-02-25T01:22:52.000Z</published>
+    <updated>2021-02-25T01:26:47.479Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;V2Ray避坑填坑指南&quot;&gt;&lt;a href=&quot;#V2Ray避坑填坑指南&quot; class=&quot;headerlink&quot; title=&quot;V2Ray避坑填坑指南&quot;&gt;&lt;/a&gt;V2Ray避坑填坑指南&lt;/h1&gt;&lt;h2 id=&quot;第一部分-安装&quot;&gt;&lt;a href=&quot;#第一部分-安装&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blogger.vkry.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>java定时器</title>
+    <link href="https://blogger.vkry.xyz/2021/02/25/java%E5%AE%9A%E6%97%B6%E5%99%A8/"/>
+    <id>https://blogger.vkry.xyz/2021/02/25/java定时器/</id>
+    <published>2021-02-25T01:22:52.000Z</published>
+    <updated>2021-02-25T01:27:26.310Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;java定时器&lt;/p&gt;
+&lt;p&gt;最早的解决方法是java.utils提供的Timer和TimerTask类，继承TimerTask并实现其中的run方法，再用timer的schedule方法调用。&lt;/p&gt;
+&lt;p&gt;spring也集成了类似的timer工具包，可以使用其中Sche
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blogger.vkry.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>java并发学习</title>
+    <link href="https://blogger.vkry.xyz/2021/02/25/%E5%B9%B6%E5%8F%91%E5%AD%A6%E4%B9%A0/"/>
+    <id>https://blogger.vkry.xyz/2021/02/25/并发学习/</id>
+    <published>2021-02-25T01:22:52.000Z</published>
+    <updated>2021-02-25T01:26:29.103Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;JUC-java.util.concurrent包-并发学习&lt;/p&gt;
+&lt;p&gt;一、并发安全数据结构&lt;/p&gt;
+&lt;p&gt;1.传统Collections工具类下转化普通ArrayList HashSet
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blogger.vkry.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>循环依赖理解</title>
+    <link href="https://blogger.vkry.xyz/2021/02/25/%E5%BE%AA%E7%8E%AF%E4%BE%9D%E8%B5%96%E7%90%86%E8%A7%A3/"/>
+    <id>https://blogger.vkry.xyz/2021/02/25/循环依赖理解/</id>
+    <published>2021-02-25T01:22:52.000Z</published>
+    <updated>2021-02-25T01:28:08.840Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;循环依赖理解：&lt;/p&gt;
+&lt;p&gt;AbstractBeanFactory类的getSingleton是循环依赖最重要的方法&lt;br&gt;总结：&lt;br&gt;首先spring会去单例池根据名字获取bean，单例池就是在DefaultSingletonBeanRegistry类中维护的sing
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blogger.vkry.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>爬虫学习积累</title>
+    <link href="https://blogger.vkry.xyz/2021/02/25/%E7%88%AC%E8%99%AB%E5%AD%A6%E4%B9%A0%E7%A7%AF%E7%B4%AF/"/>
+    <id>https://blogger.vkry.xyz/2021/02/25/爬虫学习积累/</id>
+    <published>2021-02-25T01:22:52.000Z</published>
+    <updated>2021-02-25T01:28:23.947Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;爬虫学习积累&lt;/p&gt;
+&lt;p&gt;一、python框架/库包&lt;/p&gt;
+&lt;p&gt;urllib2/requests   –收发请求&lt;/p&gt;
+&lt;p&gt;re(正则)/bs4(BeatifulSoup)
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blogger.vkry.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://blogger.vkry.xyz/2021/02/19/hello-world/"/>
+    <id>https://blogger.vkry.xyz/2021/02/19/hello-world/</id>
+    <published>2021-02-19T02:13:05.906Z</published>
+    <updated>2021-02-19T02:13:05.906Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo-Theme-Sakura</title>
+    <link href="https://blogger.vkry.xyz/2018/12/12/Hexo-Theme-Sakura/"/>
+    <id>https://blogger.vkry.xyz/2018/12/12/Hexo-Theme-Sakura/</id>
+    <published>2018-12-12T14:16:01.000Z</published>
+    <updated>2020-03-16T10:41:30.000Z</updated>
+    
+    <summary type="html">
+    
+      hexo-sakura主题使用教程
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blogger.vkry.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="web" scheme="https://blogger.vkry.xyz/tags/web/"/>
+    
+      <category term="悦读" scheme="https://blogger.vkry.xyz/tags/%E6%82%A6%E8%AF%BB/"/>
+    
+  </entry>
+  
+</feed>
